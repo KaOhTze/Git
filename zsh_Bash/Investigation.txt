@@ -1,0 +1,9 @@
+Tools for investigative purposes:
+
+ls -l / ls -la:
+Check owner and mode (of all files in the directory)
+
+file <filename>: 
+Identify the file/ object
+
+
